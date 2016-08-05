@@ -1,0 +1,35 @@
+_repo: Discours-Civiques-de-Danton_6691
+_version: 0.0.1
+contributor:
+  commentator:
+    agent_name: Fleischmann, Hector
+    birthdate: 1882
+    deathdate: 1914
+    gutenberg_agent_id: '5990'
+    url: http://www.gutenberg.org/2009/agents/5990
+creator:
+  author:
+    agent_name: Danton, Georges Jacques
+    birthdate: 1759
+    deathdate: 1794
+    gutenberg_agent_id: '2156'
+    url: http://www.gutenberg.org/2009/agents/2156
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Georges_Jacques_Danton
+    - http://en.wikipedia.org/wiki/Georges_Danton
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6691'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- History -- Revolution, 1789-1799'
+- !lcc 'DC'
+- GITenberg
+title: Discours Civiques de Danton
+url: http://www.gutenberg.org/ebooks/6691
